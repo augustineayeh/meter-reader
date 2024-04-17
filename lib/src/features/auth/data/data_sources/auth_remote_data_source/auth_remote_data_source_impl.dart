@@ -1,9 +1,9 @@
 import 'dart:convert';
 
 import 'package:errors/errors.dart';
-import 'package:nedco_meter_reader/src/core/api_client/api_client.dart';
 
 import '../../../../../core/api/api_client.dart';
+import '../../../../../core/api_client/api_client.dart';
 import '../../data.dart';
 
 class AuthenticationRemoteDataSourceImpl

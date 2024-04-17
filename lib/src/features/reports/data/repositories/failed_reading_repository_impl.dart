@@ -1,8 +1,9 @@
 import 'package:errors/errors.dart';
 import 'package:fpdart/src/either.dart';
-import '../datasources/remote_data_source/remote_data_source.dart';
+
 import '../../domain/entities/failed_reading.dart';
 import '../../domain/repositories/failed_reading_repository.dart';
+import '../datasources/remote_data_source/remote_data_source.dart';
 
 class FailedReadingRepositoryImpl extends FailedReadingRepository {
   FailedReadingRepositoryImpl(
