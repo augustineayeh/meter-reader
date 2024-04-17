@@ -1,0 +1,26 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "formz",
+      "rootUri": "file:///Users/Aug/.pub-cache/hosted/pub.dev/formz-0.6.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.14"
+    },
+    {
+      "name": "meta",
+      "rootUri": "file:///Users/Aug/.pub-cache/hosted/pub.dev/meta-1.11.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "formz_input",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.1"
+    }
+  ],
+  "generated": "2024-02-28T13:19:06.647834Z",
+  "generator": "pub",
+  "generatorVersion": "3.3.0"
+}

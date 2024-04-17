@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
+options: "f511e5a9c8548f0d0f32a0c0faff3869ea47a17880145c85dbe6da47324243fc"
+build_start_time: [1711471215, 167319059]
+build_end_time: [1711471218, 679647922]
+inputs:
+  "/Users/Aug/nedco-meter-reader/macos/Flutter/GeneratedPluginRegistrant.swift": [1711471199, 779599189]
+  "/Users/Aug/nedco-meter-reader/macos/Runner/AppDelegate.swift": [1709125783, 920852899]
+  "/Users/Aug/nedco-meter-reader/macos/Runner/MainFlutterWindow.swift": [1709125783, 924685955]
