@@ -1,6 +1,5 @@
-# nedco_meter_reader
+# meter_reader
 
-A NEDCO meter reader application for FAAB Systems.
 
 ## Getting Started
 
